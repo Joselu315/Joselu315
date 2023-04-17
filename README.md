@@ -5,7 +5,7 @@
 
  ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a BackEnd and FrontEnd Developer, currently working at <a href="https://www.italiainweb.it/"> ItaliaInWeb </a> / <a href="https://framework.zumito.ga/"> ZumitoTeam </a> 
-- 💻 I use daily ``.html/.blade/.twig/.smarty/``, ``.css/.less/.scss``, ``.js/.ts``, ``.php``, ``.sql``, ``.sh``
+- 💻 I use daily ``.html/.php/.java/.xml/``, ``.css/.scss``, ``.js/.ts``, ``.sql``, ``.sh/.bat``
 - 💖 My favorite programming language is Java.
 - 👩‍🏫 Love teaching and sharing knowledge.
 - 🧐 Learning about **IA**
