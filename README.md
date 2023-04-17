@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Joselu315&label=Profile%20views&color=0e75b6&style=flat" alt="Joselu315" /> </p>
 
  ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Web Developer, currently working at <a href="https://www.italiainweb.it/"> ItaliaInWeb </a>
+- 🏦 I'm a BackEnd and FrontEnd Developer, currently working at <a href="https://www.italiainweb.it/"> ItaliaInWeb </a> <a href="https://framework.zumito.ga/"> /ZumitoTeam </a> 
 - 💻 I use daily ``.html/.blade/.twig/.smarty/``, ``.css/.less/.scss``, ``.js/.ts``, ``.php``, ``.sql``, ``.sh``
 - 💖 My favorite programming language is Java.
 - 👩‍🏫 Love teaching and sharing knowledge.
